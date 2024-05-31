@@ -1,0 +1,17 @@
+
+div.nav-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center !important;     
+}
+
+a.brand-logo {
+    display: flex;
+}
+    
+
+
+.brand-logo img {
+    padding-left: 16px;
+    height: 35px;
+}
